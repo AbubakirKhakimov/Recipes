@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="you_have_n_exams_today">У вас сегодня %1$d экзаменов</string>
+    <string name="you_have_n_exams_tomorrow">Завтра у вас %1$d экзаменов</string>
+    <string name="you_have_n_pair_lessons_today">У вас сегодня %1$d пара уроков</string>
+    <string name="you_have_n_pair_lessons_tomorrow">Завтра у вас %1$d пара уроков</string>
+    <string name="you_have_n_missed_lessons_today">Сегодня вы пропустили %1$d уроков</string>
+    <string name="you_have_n_missed_lessons_yesterday">Вчера вы пропустили %1$d уроков</string>
+    <string name="today_you_have_to_complete_n_tasks">Сегодня вам нужно выполнить %1$d задачу</string>
+    <string name="tomorrow_you_have_to_complete_n_tasks">Завтра вам нужно выполнить %1$d задачу</string>
+    <string name="total_missed_lessons_with_see_all">Всего %1$d шт. Увидеть все</string>
+    <string name="hello_how_can_i_help_today">Привет! Как я могу помочь сегодня?</string>
+    <string name="see_all">Увидеть все</string>
+    <string name="no_quick_information">Быстрых информации нет!</string>
+</resources>

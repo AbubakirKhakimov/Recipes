@@ -1,0 +1,14 @@
+<resources>
+    <string name="you_have_n_exams_today">You have %1$d exams today</string>
+    <string name="you_have_n_exams_tomorrow">You have %1$d exams tomorrow</string>
+    <string name="you_have_n_pair_lessons_today">You have %1$d pair lessons today</string>
+    <string name="you_have_n_pair_lessons_tomorrow">You have %1$d pair lessons tomorrow</string>
+    <string name="you_have_n_missed_lessons_today">You have %1$d missed lessons today</string>
+    <string name="you_have_n_missed_lessons_yesterday">You have %1$d missed lessons yesterday</string>
+    <string name="today_you_have_to_complete_n_tasks">Today you have to complete %1$d tasks</string>
+    <string name="tomorrow_you_have_to_complete_n_tasks">Tomorrow you have to complete %1$d tasks</string>
+    <string name="total_missed_lessons_with_see_all">Total %1$d pcs. See all</string>
+    <string name="hello_how_can_i_help_today">Hello! How can I help today?</string>
+    <string name="see_all">See all</string>
+    <string name="no_quick_information">No quick information!</string>
+</resources>

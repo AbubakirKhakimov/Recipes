@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="telegram_color">#248AFD</color>
+
+    <color name="colorSurfaceLight">#707066</color>
+    <color name="colorSurfaceNight">#707066</color>
+
+    <color name="colorPrimary">#FF6B00</color>
+
+    <color name="blue10">#001933</color>
+    <color name="blue20">#003166</color>
+    <color name="blue25">#003e80</color>
+    <color name="blue30">#004a99</color>
+    <color name="blue40">#0063cc</color>
+    <color name="blue80">#99caff</color>
+    <color name="blue90">#cce5ff</color>
+    <color name="blue95">#e6f2ff</color>
+
+    <color name="red10">#410001</color>
+    <color name="red20">#680003</color>
+    <color name="red30">#930006</color>
+    <color name="red40">#BA1B1B</color>
+    <color name="red40_al60">#99BA1B1B</color>
+    <color name="red50">#df2020</color>
+    <color name="red60">#e64d4d</color>
+    <color name="red80">#FFB4A9</color>
+    <color name="red90">#FFDAD4</color>
+
+    <color name="grey7">#121212</color>
+    <color name="grey15">#262626</color>
+    <color name="grey30">#4d4d4d</color>
+    <color name="grey40">#666666</color>
+    <color name="grey80">#cccccc</color>
+    <color name="grey90">#e6e6e6</color>
+
+    <color name="green10">#092a11</color>
+    <color name="green20">#125422</color>
+    <color name="green30">#1b7e34</color>
+    <color name="green40">#24a845</color>
+    <color name="green40_al90">#E624A845</color>
+    <color name="green50">#2dc653</color>
+    <color name="green60">#57db78</color>
+    <color name="green70">#81e49a</color>
+    <color name="green80">#acecbc</color>
+    <color name="green90">#d5f6dd</color>
+
+    <color name="yellow10">#332600</color>
+    <color name="yellow20">#664d00</color>
+    <color name="yellow30">#997300</color>
+    <color name="yellow40">#cc9900</color>
+    <color name="yellow50">#FFC107</color>
+    <color name="yellow60">#ffcc33</color>
+    <color name="yellow70">#ffd966</color>
+    <color name="yellow80">#ffe699</color>
+    <color name="yellow90">#fff2cc</color>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="you_have_n_exams_today">Bugun sizda %1$d ta imtihon bor</string>
+    <string name="you_have_n_exams_tomorrow">Ertaga %1$d ta imtihoningiz bor</string>
+    <string name="you_have_n_pair_lessons_today">Bugun sizda %1$d juft dars bor</string>
+    <string name="you_have_n_pair_lessons_tomorrow">Ertaga %1$d juft darsingiz bor</string>
+    <string name="you_have_n_missed_lessons_today">Bugun %1$d ta dars qoldirdingiz</string>
+    <string name="you_have_n_missed_lessons_yesterday">Kecha siz %1$d ta dars qoldirdingiz</string>
+    <string name="today_you_have_to_complete_n_tasks">Bugun siz %1$d ta vazifani bajarishingiz kerak</string>
+    <string name="tomorrow_you_have_to_complete_n_tasks">Ertaga %1$d ta vazifani bajarishingiz kerak</string>
+    <string name="total_missed_lessons_with_see_all">Jami %1$d ta. Barchasini ko\'rish</string>
+    <string name="hello_how_can_i_help_today">Salom! Bugun qanday yordam bera olaman?</string>
+    <string name="see_all">Barchasini ko\'rish</string>
+    <string name="no_quick_information">Tezkor ma\'lumotlar yo\'q!</string>
+</resources>
